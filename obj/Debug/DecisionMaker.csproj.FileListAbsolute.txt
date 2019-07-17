@@ -1,0 +1,7 @@
+C:\Users\achia\OneDrive\Desktop\exercises\Labs\DecisionMaker\bin\Debug\DecisionMaker.exe.config
+C:\Users\achia\OneDrive\Desktop\exercises\Labs\DecisionMaker\bin\Debug\DecisionMaker.exe
+C:\Users\achia\OneDrive\Desktop\exercises\Labs\DecisionMaker\bin\Debug\DecisionMaker.pdb
+C:\Users\achia\OneDrive\Desktop\exercises\Labs\DecisionMaker\obj\Debug\DecisionMaker.csprojAssemblyReference.cache
+C:\Users\achia\OneDrive\Desktop\exercises\Labs\DecisionMaker\obj\Debug\DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\achia\OneDrive\Desktop\exercises\Labs\DecisionMaker\obj\Debug\DecisionMaker.exe
+C:\Users\achia\OneDrive\Desktop\exercises\Labs\DecisionMaker\obj\Debug\DecisionMaker.pdb
